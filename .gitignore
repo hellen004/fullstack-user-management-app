@@ -1,0 +1,13 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Vite / Vue
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
